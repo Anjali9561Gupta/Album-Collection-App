@@ -14,10 +14,7 @@ YOUTUBE LINK:-
   <li>Add an album, make a POST call to the above url</li>
   <li>Update the album, make a PUT call to the above url</li>
   <li>Delete an album, make a DELETE call to the above url</li>
-  <li>Clear</li>
-  <li>Equals</li>
-  <li>Regular Expression and many more features</li>
-  <p>Add/multiply,subtract/divide can be clubbed together.</p>
+  
   
 </ul>
 
