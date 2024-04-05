@@ -1,7 +1,7 @@
 <h1>Album Collection App</h1>
 <p>Creating a album collection application and that have the following features.</p>
 
-Visit Live site on -> 
+Visit Live site on -> https://album-collection-app.vercel.app/
 
 YOUTUBE LINK:-
 
