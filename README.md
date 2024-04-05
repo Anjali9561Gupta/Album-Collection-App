@@ -7,7 +7,7 @@ YOUTUBE LINK:-
 
 <h1>FEATURES</h1>
 <ul>
-  <li>Fetch and show albums from the API -<a href=" https://jsonplaceholder.typicode.com/albums">
+  <li>Fetch and show albums from the API - <a href="https://jsonplaceholder.typicode.com/albums">
     https://jsonplaceholder.typicode.com/albums
   </a>
 </li>
